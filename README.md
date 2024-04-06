@@ -1,4 +1,4 @@
-#Live Projrct Link: https://calen-dly.netlify.app/
+#Live Project Link: https://calen-dly.netlify.app/
 <<<<<<< HEAD
 # Getting Started with Create React App
 
